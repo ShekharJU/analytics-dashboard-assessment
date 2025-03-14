@@ -40,4 +40,14 @@ Your submission will be evaluated based on:
 - Update this [README.md](README.md) file with the URL to your live dashboard.
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
   - kandaramit5@gmail.com
-- Finally, please fill out the google form that you received via email to submit the assessment for review.
+- Finally, please fill out the Google form that you received via email to submit the assessment for review.
+
+## Live Dashboard
+
+The dashboard is deployed and accessible at:
+
+**[Live Dashboard](https://shekharju-ev-shekhar-main-vlzdhg.streamlit.app/)**
+
+## GitHub Repository
+
+**[GitHub Repository](https://github.com/ShekharJU/EV-Shekhar)**
